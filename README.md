@@ -1,11 +1,11 @@
 Employee Management System (EMS)
 A 3-day Core Java project demonstrating fundamental and advanced Java concepts.
 
-Technologies Used
-Java 17
-MySQL 8.0
-JDBC
-Eclipse IDE
+--Technologies Used
+-Java 17
+-MySQL 8.0
+-JDBC
+-Eclipse IDE
 
 Project Structure
 Day 1 - Core Java (Inheritance, Interfaces, Abstract Classes)
